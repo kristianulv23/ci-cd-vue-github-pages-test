@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <base-button @on-click="onClick($event)" text="PRESS ME"></base-button>
+    <base-button @on-click="onClick($event)" text="PRESS MY BUTTON"></base-button>
   </div>
 </template>
 
